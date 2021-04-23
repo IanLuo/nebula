@@ -1,3 +1,4 @@
+# this is the github action configuration file
 name: Build and deploy Jekyll site to Github Pages
 
 on:
